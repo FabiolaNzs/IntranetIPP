@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nadia.com" resolutions="1x,2x" timestamp="1467319229508">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_b-p_g_-maestra.css" crc="4036192862" ref="blog:portafolio:contact-us:about-us"/>
+    <file name="nomq_preview_master_b-p_g_-maestra.css" crc="448882064" ref="blog:portafolio:contact-us:about-us"/>
+    <file name="master_a-p_g_-maestra.css" crc="4095089585" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="49504819" ref="index"/>
+    <file name="blog.css" crc="4044429550" ref="blog"/>
+    <file name="nomq_blog.css" crc="282563161" ref="blog"/>
+    <file name="index.css" crc="439316252" ref="index"/>
+    <file name="nomq_index.css" crc="223762388" ref="index"/>
+    <file name="portafolio.css" crc="4044429550" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="282563161" ref="portafolio"/>
+    <file name="contact-us.css" crc="4130128682" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="477029702" ref="contact-us"/>
+    <file name="about-us.css" crc="4044429550" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="282563161" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="webpro.js" crc="329496574" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="slider-img1.jpg" crc="407478781" seo="true" ref="index"/>
+    <file name="slider-img1_2x.jpg" crc="4011558313" seo="true" ref="index"/>
+    <file name="services-wh-icon1.png" crc="4014040872" seo="true" ref="index"/>
+    <file name="services-wh-icon2.png" crc="143749670" seo="true" ref="index"/>
+    <file name="services-wh-icon3.png" crc="223694745" seo="true" ref="index"/>
+    <file name="services-wh-icon4.png" crc="87776847" seo="true" ref="index"/>
+    <file name="slider-img1768x432.jpg" crc="340953183" seo="true" ref="index"/>
+    <file name="slider-img1768x432_2x.jpg" crc="3979092945" seo="true" ref="index"/>
+    <file name="menu33x33.png" crc="142750292" seo="true" ref="index"/>
+    <file name="services-wh-icon449x46.png" crc="30417504" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:portafolio:blog:contact-us"/>
+    <file name="menu39x39.png" crc="142750292" seo="true" ref="about-us"/>
+    <file name="ft-location-icon.png" crc="4027921087" seo="true" ref="contact-us"/>
+    <file name="ft-phone-icon.png" crc="4210514226" seo="true" ref="contact-us"/>
+    <file name="ft-from-icon.png" crc="3892915045" seo="true" ref="contact-us"/>
+    <file name="ft-location-icon17x23.png" crc="3957527715" seo="true" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="320701585" seo="true" mt="1466113642426" redirect="true"/>
+  <file name="about-us.html" crc="4038406171" seo="true" mt="1466113633051" redirect="true"/>
+  <file name="portafolio.html" crc="4050315170" seo="true" mt="1466113633051" redirect="true"/>
+  <file name="blog.html" crc="509097152" seo="true" mt="1466113633051" redirect="true"/>
+  <file name="contact-us.html" crc="431159081" seo="true" mt="1466113633051" redirect="true"/>
+</manifest>

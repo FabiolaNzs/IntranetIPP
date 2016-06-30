@@ -1,0 +1,476 @@
+.version.portafolio /* version checker */
+{
+	color: #0000F1;
+	background-color: #1118EE;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	width: 100%;
+	border-width: 0px;
+	margin-right: auto;
+	min-height: 500px;
+	background-image: none;
+	border-color: #000000;
+	background-color: transparent;
+	z-index: 1;
+	margin-left: auto;
+}
+
+#u1482
+{
+	width: 100%;
+	padding-bottom: 22px;
+	z-index: 2;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1457-5
+{
+	left: 2.09%;
+	z-index: 8;
+	position: relative;
+	min-height: 46px;
+	margin-top: 20px;
+	margin-right: -10000px;
+}
+
+#u1448
+{
+	position: relative;
+	width: 100%;
+	padding-bottom: 22px;
+	z-index: 3;
+	margin-right: -10000px;
+}
+
+#u1449-4
+{
+	z-index: 4;
+	position: relative;
+	min-height: 22px;
+	margin-top: 22px;
+	margin-right: -10000px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+.verticalspacer
+{
+	min-height: 350px;
+}
+
+@media (min-width: 769px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 960px;
+	}
+
+	#u1457-5
+	{
+		width: 23.03%;
+	}
+
+	#u1458-4
+	{
+		z-index: 13;
+		width: 45px;
+		min-height: 31px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		left: 45%;
+	}
+
+	#u1459-4
+	{
+		z-index: 17;
+		width: 74px;
+		min-height: 31px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		left: 54.07%;
+	}
+
+	#u1460-4
+	{
+		z-index: 21;
+		width: 91px;
+		min-height: 31px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		left: 66.15%;
+	}
+
+	#u1461-4
+	{
+		z-index: 25;
+		width: 41px;
+		min-height: 31px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		left: 80%;
+	}
+
+	#u1462-4
+	{
+		z-index: 29;
+		width: 82px;
+		min-height: 31px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		left: 88.65%;
+	}
+
+	#u1448
+	{
+		margin-bottom: -292px;
+		margin-top: 288px;
+	}
+
+	#u1449-4
+	{
+		width: 18.44%;
+		left: 79.48%;
+	}
+
+	body
+	{
+		padding-bottom: 296px;
+	}
+}
+
+@media (max-width: 768px)
+{
+	#muse_css_mq
+	{
+		background-color: #000300;
+	}
+
+	#bp_768.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 768px;
+	}
+
+	#pu1482
+	{
+		margin-right: -10000px;
+		width: 100%;
+	}
+
+	#u1457-5
+	{
+		width: 23.05%;
+	}
+
+	#u1503
+	{
+		z-index: 13;
+		padding-bottom: 1px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 6.78%;
+		left: 90.37%;
+	}
+
+	#u1516
+	{
+		z-index: 14;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 2px;
+		width: 75%;
+		left: 15.39%;
+	}
+
+	#accordionu1525
+	{
+		z-index: 16;
+	}
+
+	#u1530
+	{
+		z-index: 17;
+	}
+
+	#u1531-3
+	{
+		z-index: 18;
+		min-height: 23px;
+		padding-left: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	#u1531-3:hover
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 23px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1531-3:active
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 23px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1531-3.AccordionPanelTabOpen
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		min-height: 23px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1532
+	{
+		z-index: 21;
+	}
+
+	#menuu1577
+	{
+		z-index: 22;
+		min-height: 272px;
+	}
+
+	#u1579
+	{
+		min-height: 17px;
+		padding-bottom: 35px;
+		position: relative;
+	}
+
+	#u1579:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1580-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 17px;
+	}
+
+	#u1579:hover #u1580-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1588
+	{
+		min-height: 17px;
+		padding-bottom: 36px;
+		position: relative;
+	}
+
+	#u1579.MuseMenuActive,#u1588:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1591-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 18px;
+	}
+
+	#u1579.MuseMenuActive #u1580-4,#u1588:hover #u1591-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1638
+	{
+		min-height: 17px;
+		padding-bottom: 36px;
+		position: relative;
+	}
+
+	#u1588.MuseMenuActive,#u1638:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1639-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 18px;
+	}
+
+	#u1588.MuseMenuActive #u1591-4,#u1638:hover #u1639-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1674
+	{
+		min-height: 17px;
+		padding-bottom: 36px;
+		position: relative;
+	}
+
+	#u1638.MuseMenuActive,#u1674:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1677-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 18px;
+	}
+
+	#u1638.MuseMenuActive #u1639-4,#u1674:hover #u1677-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1711
+	{
+		min-height: 17px;
+		padding-bottom: 36px;
+		position: relative;
+	}
+
+	#u1674.MuseMenuActive,#u1711:hover
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1711.MuseMenuActive
+	{
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1712-4
+	{
+		min-height: 17px;
+		position: relative;
+		top: 18px;
+	}
+
+	#u1674.MuseMenuActive #u1677-4,#u1711:hover #u1712-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1711.MuseMenuActive #u1712-4
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 17px;
+		margin: 0px 0px 0px 0%;
+	}
+
+	#u1585,#u1637,#u1673,#u1708
+	{
+		margin-top: 2px;
+	}
+
+	#menuu1577-bw
+	{
+		z-index: 22;
+		min-height: 272px;
+		margin-top: -1px;
+	}
+
+	#accordionu1525-bw
+	{
+		z-index: 16;
+		margin-top: 19px;
+	}
+
+	#u1448
+	{
+		margin-bottom: -339px;
+		margin-top: 335px;
+	}
+
+	#u1449-4
+	{
+		width: 18.49%;
+		left: 79.43%;
+	}
+
+	body
+	{
+		min-width: 320px;
+		padding-bottom: 339px;
+	}
+
+	#u1516_img
+	{
+		width: 100%;
+	}
+
+}
+
